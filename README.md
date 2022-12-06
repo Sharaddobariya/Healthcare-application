@@ -16,19 +16,11 @@ samples, guidance on mobile development, and a full API reference.
 ## Screanshot
 
 ![1](ss/1.jpeg)
-
 ![1](ss/2.jpeg)
-
 ![1](ss/3.jpeg)
-
 ![1](ss/4.jpeg)
-
 ![1](ss/5.jpeg)
-
 ![1](ss/6.jpeg)
-
 ![1](ss/7.jpeg)
-
 ![1](ss/8.jpeg)
-
 ![1](ss/9.jpeg)
